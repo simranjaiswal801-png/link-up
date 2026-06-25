@@ -53,7 +53,7 @@ LinkUp/
 ├── style.css (optional if separated)
 └── script.js (optional if separated)
 
-Live Demo: https://simranjaiswal801-png.github.io/Link-Up/
+Live Demo: https://simranjaiswal801.github.io/Link-Up/
 
 ▶ How To Run Locally
 Download or clone repo

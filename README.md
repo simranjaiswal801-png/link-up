@@ -1,62 +1,121 @@
-📹 Link-Up — Video Conferencing Plateform
+# 📹 LinkUp – Video Conferencing Platform
 
-LinkUp is a modern browser-based video meeting platform built using HTML, CSS, and JavaScript.
-It provides real-time meeting UI features similar to Zoom / Google Meet with a stylish animated interface.
+LinkUp is a modern and responsive **video conferencing platform prototype** built using **HTML5, CSS3, and JavaScript**. Inspired by modern online meeting applications, the project demonstrates an interactive meeting interface with features such as video controls, screen sharing, chat, participant management, and collaboration tools.
 
-🚀 Features
+## 🌐 Live Demo
 
-🎥 Camera On / Off
+**https://simranjaiswal801.github.io/Link-Up/**
 
-🎤 Mic Toggle with Status Indicator
+---
 
-🖥 Screen Sharing
+## 📌 Project Overview
 
-💬 Animated Chat Panel
+LinkUp is designed to simulate the user experience of a modern online meeting platform. The project focuses on creating an intuitive interface with responsive layouts, smooth animations, and interactive meeting controls while showcasing front-end development skills.
 
-👥 Participants Panel
+---
 
-✋ Raise Hand Notification
+## ✨ Key Features
 
-📝 Whiteboard Tool
+### 🎥 Meeting Controls
 
-📒 Notes Panel
+* Camera On / Off
+* Microphone Toggle
+* Recording Status Indicator
+* Screen Sharing Interface
 
-😍 Live Emoji Reactions
+### 💬 Collaboration Tools
 
-🔴 Recording Indicator UI
+* Live Chat Panel
+* Participants List
+* Raise Hand Notification
+* Whiteboard Interface
+* Notes Panel
 
-🧩 Breakout Room Demo
+### 🎉 Interactive Experience
 
-🛡 Host Control Panel
+* Live Emoji Reactions
+* Invite Link Popup
+* Share Meeting Options
+* Host Control Panel
+* Breakout Room UI Prototype
 
-🔗 Invite Link Popup + Share Buttons
+### 🎨 User Experience
 
-🌫 Background Blur Effect
+* Glassmorphism UI
+* Smooth Animations
+* Background Blur Effect
+* Fully Responsive Design
+* Clean and Modern Interface
 
-📱 Responsive Layout
+---
 
-🛠 Tech Stack
+## 🛠️ Tech Stack
 
-HTML5
+* HTML5
+* CSS3
+* JavaScript (ES6)
+* WebRTC Media API (Camera, Microphone & Screen Sharing UI)
 
-CSS3 (Glass UI + Animations)
+> **Note:** This project focuses on the front-end interface. Real-time video conferencing, signaling servers, and peer-to-peer communication are not implemented.
 
-Vanilla JavaScript
+---
 
-WebRTC Media API (Camera/Mic/Screen)
+## 📂 Project Structure
 
-📂 Project Structure
-LinkUp/
+```text
+Link-Up/
 │
 ├── index.html
 ├── meeting.html
-├── style.css (optional if separated)
-└── script.js (optional if separated)
+├── style.css
+├── script.js
+└── assets/
+```
 
-Live Demo: https://simranjaiswal801.github.io/Link-Up/
+---
 
-▶ How To Run Locally
-Download or clone repo
-git clone https://github.com/simrabjaiswal/linkup.git
-Open folder
-Run using Live Server or local server
+## 🚀 Getting Started
+
+1. Clone the repository.
+
+```bash
+git clone https://github.com/simranjaiswal801/Link-Up.git
+```
+
+2. Open the project folder.
+3. Launch `index.html` using **Live Server** or any modern web browser.
+
+---
+
+## 🎯 Project Objectives
+
+* Design a professional video conferencing interface.
+* Demonstrate responsive front-end development.
+* Practice JavaScript-based UI interactions.
+* Explore modern collaboration platform design patterns.
+
+---
+
+## 🔮 Future Enhancements
+
+* Real-time video calling using WebRTC
+* Socket.IO integration
+* Meeting authentication
+* Chat persistence
+* Screen recording
+* File sharing
+* Virtual backgrounds
+* Meeting scheduling
+* End-to-end encryption
+* Mobile application support
+
+---
+
+## 👩‍💻 Author
+
+**Simran Jaiswal**
+B.Tech – Computer Science & Engineering (Data Science)
+
+---
+
+⭐ If you found this project interesting, feel free to **star the repository** and share your feedback.
